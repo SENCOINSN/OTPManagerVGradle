@@ -46,4 +46,4 @@ jobs:
         chmod +x gradlew 
         ./gradlew publish
       env:
-        GITHUB_TOKEN: ${{ secrets.TOKEN_GRADLE }}
+        GITHUB_TOKEN: ${{ secrets.JAVA_TOKEN }}
