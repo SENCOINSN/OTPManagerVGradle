@@ -14,9 +14,10 @@ repositories {
     }
 
     maven {
-        url = uri('https://maven.pkg.github.com/misterseye/storage-helper')
+        url = uri('https://maven.pkg.github.com/SENCOINSN/OTPManagerVGradle')
     }
 }
+
 
 dependencies {
     api libs.org.apache.commons.commons.lang3
